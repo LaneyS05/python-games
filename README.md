@@ -1,7 +1,7 @@
 Flask Games App
 
 This is a simple Flask web application for playing games. It allows users to sign up, log in, and play various games.
-I am currently still working on this progect.
+I am currently still working on this progect hope to be done soon.
 
 Tools Used
 
