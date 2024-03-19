@@ -1,0 +1,15 @@
+[
+    {   
+        "game_id": 0,
+        "game_name": "Snake",
+        "game_photo": "https://raw.githubusercontent.com/HackerUSA-CE/gamefax-app/main/assets/alvan-nee-ZCHj_2lJP00-unsplash.jpg?token=AGGJTZ5IZBINFYIOCE3C4JDBIJXEC",
+    },{   
+        "game_id": 1,
+        "game_name": "Tetris",
+        "game_photo": "https://raw.githubusercontent.com/HackerUSA-CE/gamefax-app/main/assets/emiliano-vittoriosi-3FSBkX4yG80-unsplash.jpg?token=AGGJTZ3XORYM6QENZVZU3PLBIJXGG",
+    },{   
+        "game_id": 2,
+        "game_name": "Space Invaders",
+        "game_photo": "https://raw.githubusercontent.com/HackerUSA-CE/gamefax-app/main/assets/karsten-winegeart-5PVXkqt2s9k-unsplash.jpg?token=AGGJTZZBBZGP6TBRXXCLNDLBIJXHU",
+    }
+]
